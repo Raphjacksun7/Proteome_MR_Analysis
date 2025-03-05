@@ -1,7 +1,7 @@
 ###########################################################################
 # Generic Script for Two Step MR Analysis with Mediation Testing
 #
-# For proteins that have colocalized with outcomes (AAM or ANM) (H4 > 0.8),
+# For proteins that have colocalized with outcomes  (H4 > 0.8),
 # we test whether BMI mediates the relationship between protein levels 
 # and the outcome.
 #
@@ -48,7 +48,7 @@ mediation <- function(a, sa, b, sb) {
 #------------------ MR Results Preparation ------------------
 # NOTE: 'mr_a' and 'mr_b' should be data frames containing your MR results.
 # mr_a: Results from the MR analysis (Protein --> BMI)
-# mr_b: Results from the MR analysis (BMI --> Outcome: AAM or ANM)
+# mr_b: Results from the MR analysis (BMI --> Outcome)
 
 # Filter to include only the Inverse Variance Weighted (IVW) estimates
 mr_a_ivw <- mr_a %>% filter(method == "Inverse variance weighted")
