@@ -87,9 +87,7 @@ BiocManager::install(c("MRInstruments", "TwoSampleMR", "MRPRESSO", "LDlinkR", "c
 The code implemented in these scripts is publicly available under an open-source license. In accordance with the code availability statement in our paper, the complete repository (including this README and all analysis scripts) is hosted on GitHub and archived in Zenodo for long-term preservation. This enables reproducibility and reuse of our methods in future research.
 
 - **GitHub Repository:** [[https://github.com/Raphjacksun7/Proteome_MR_Analysis](https://github.com/Raphjacksun7/Proteome_MR_Analysis)]
-- https://github.com/Raphjacksun7/Proteome_MR_Analysis
-- **Zenodo Archive DOI:** [10.xxxx/zenodo.xxxxx](https://doi.org/10.xxxx/zenodo.xxxxx)
-
+- **Zenodo Archive DOI:** [10.5281/zenodo.14969499](https://doi.org/10.5281/zenodo.14969499)
 Please refer to the “Code Availability” section in our paper for further details regarding the licensing and citation of the code.
 
 ## Citation
