@@ -88,6 +88,7 @@ The code implemented in these scripts is publicly available under an open-source
 
 - **GitHub Repository:** [[https://github.com/Raphjacksun7/Proteome_MR_Analysis](https://github.com/Raphjacksun7/Proteome_MR_Analysis)]
 - **Zenodo Archive DOI:** [10.5281/zenodo.14969499](https://doi.org/10.5281/zenodo.14969499)
+
 Please refer to the “Code Availability” section in our paper for further details regarding the licensing and citation of the code.
 
 ## Citation
