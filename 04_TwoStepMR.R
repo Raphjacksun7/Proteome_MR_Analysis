@@ -10,7 +10,7 @@
 # Requirements:
 #   - Previously computed MR results for:
 #       (a) Protein --> BMI (mr_a)
-#       (b) BMI --> Outcome (mr_b)
+#       (b) BMI --> Outcome: %BF (mr_b)
 #
 # The mediation function is adapted from the bda package.
 # See our Manuscript for GWAS download links.
