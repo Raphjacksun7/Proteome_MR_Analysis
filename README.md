@@ -73,7 +73,7 @@ BiocManager::install(c("MRInstruments", "TwoSampleMR", "MRPRESSO", "LDlinkR", "c
    - Output: Colocalization summary statistics and, optionally, susie-based coloc results.
 
 3. **TwoStep_MR_analysis.R:**  
-   - Ensure MR results from Protein → BMI and BMI → Outcome analyses are available.
+   - Ensure MR results from Protein → BMI and BMI → Outcome (%BF) analyses are available.
    - Run the script to calculate the mediation effect using Sobel’s method.
    - Output: Combined dataset with MR estimates and mediation analysis metrics.
 
